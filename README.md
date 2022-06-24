@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently developing my programming skills
+- 🔭 Mobile Software Engineer
 - 🌱 I have a key interest in ML and AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
